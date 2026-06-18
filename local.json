@@ -1,6 +1,6 @@
 {
   "sourceName": "Local Files",
-  "iconUrl": "https://raw.githubusercontent.com/<you>/<repo>/main/local-icon.png",
+  "iconUrl": "https://raw.githubusercontent.com/xibrox/local-files-module/refs/heads/main/icon.png",
   "author": {
     "name": "ibro",
     "icon": "https://git.luna-app.eu/ibro/services/raw/branch/main/profile.jpg",
@@ -8,7 +8,7 @@
   },
   "version": "1.0.0",
   "baseUrl": "shirox-local://",
-  "scriptUrl": "https://git.luna-app.eu/ibro/services/raw/branch/main/local/local.js",
+  "scriptUrl": "https://raw.githubusercontent.com/xibrox/local-files-module/refs/heads/main/local.js",
   "type": "anime/shows/movies",
   "supportsLocalPlayback": true
 }
